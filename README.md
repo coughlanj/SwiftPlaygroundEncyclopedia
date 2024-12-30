@@ -1,2 +1,3 @@
-# SwiftPlaygroundEncyclopedia
-An A-Z of all things Swift
+# Hello, World
+## This is my attempt at an iOS Study Encyclopedia
+
